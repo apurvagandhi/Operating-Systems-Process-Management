@@ -1,0 +1,4 @@
+total 1468
+-rw------- 1 ahgand22 domain users       0 Mar 27 17:45 output.txt
+-rw-r--r-- 1 ahgand22 domain users 1385378 Feb 21 21:27 responses.pdf
+-rwx------ 1 ahgand22 domain users    9600 Feb 18 14:44 test
